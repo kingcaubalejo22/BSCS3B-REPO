@@ -3,5 +3,6 @@
 ----- BEGIN -----
 [*] King Lawrence Caubalejo
 [*] Elmer G. Sulitas Jr
+Jeric Salvidar
 
 ----- END -----
